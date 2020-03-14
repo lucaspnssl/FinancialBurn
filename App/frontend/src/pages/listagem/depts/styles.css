@@ -1,0 +1,27 @@
+.paperClass {
+    margin: 20px auto 0;
+    width: 80%;
+    display: flexbox;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.paperClass Button {
+    background-color: darkviolet;
+    color: white;
+    width: 150px;
+}
+
+.paperClass Button:hover {
+    opacity: 0.7;
+}
+
+.actions Button {
+    margin-bottom: 30px;
+}
+
+.paperClass .root {
+    width: 100%;
+    overflow: auto;
+}

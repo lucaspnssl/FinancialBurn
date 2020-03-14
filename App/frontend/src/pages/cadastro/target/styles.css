@@ -1,0 +1,18 @@
+.content .actions {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.content .actions button {
+    border: 0;
+    border-radius: 2px;
+    width: 47%;
+    height: 42px;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: bold;
+    background: darkviolet;
+    color: #fff;
+    cursor: pointer;    
+  }

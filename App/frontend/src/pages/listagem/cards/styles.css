@@ -1,0 +1,33 @@
+.listCards {
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+}
+
+.cards {
+    max-width: 345px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.cards .cardsMedia {
+    height: 140px;
+}
+
+.cards .Descricao {
+    max-lines: 1;
+}
+
+.cards .actionButtons {
+    color: darkviolet;
+    position: static;
+}
+
+
+.cardComponent Button.navButtons {   
+    margin-top: 20px;
+    margin-left: 25px;
+    background: darkviolet;
+    color: white;
+    width: 150px;
+}

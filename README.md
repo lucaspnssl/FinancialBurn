@@ -1,2 +1,2 @@
 # FinancialBurn
-Controle Financeiro
+Financial control
